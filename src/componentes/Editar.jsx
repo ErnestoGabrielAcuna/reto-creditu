@@ -3,7 +3,7 @@ import { useForm } from 'react-hook-form';
 import Modal from 'react-bootstrap/Modal';
 import '../css/menu.css'
 
-const URL_EDITAR_JUGADORES = "http://localhost/gabriel_A/editar_jugador.php";
+const URL_EDITAR_JUGADORES = "https://cybertronstore.com/editar_jugador.php";
 //const avatares = imageName => (require('./assets/${avatar1.png}').default);
 
 export default function Editar(props) {

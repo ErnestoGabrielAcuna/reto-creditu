@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import '../css/menu.css'
 
-const URL_FILTRAR = "http://localhost/gabriel_A/filtrar_jugador.php";
+const URL_FILTRAR = "https://cybertronstore.com/filtrar_jugador.php";
 
 export default function Filtrar(props) {
 

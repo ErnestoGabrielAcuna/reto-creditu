@@ -3,7 +3,7 @@ import { useForm } from 'react-hook-form';
 import Modal from 'react-bootstrap/Modal';
 import '../css/menu.css'
 
-const URL_CREAR = "http://localhost/gabriel_A/crear_jugador.php"; //URL del php
+const URL_CREAR = "https://cybertronstore.com/crear_jugador.php"; //URL del php
 
 export default function Crear(props) {
 

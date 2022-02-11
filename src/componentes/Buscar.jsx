@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import '../css/menu.css'
 
-const URL_BUSCAR = "http://localhost/gabriel_A/buscar_jugador.php";
+const URL_BUSCAR = "https://cybertronstore.com/buscar_jugador.php";
 
 export default function Buscar(props) {
 
